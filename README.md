@@ -10,11 +10,10 @@ Design Together, Create Limitlessly.
 </p>
 </div>
 
- ## About The Project
-
+ ## ⚙️ About The Project 
 
 Welcome to FigPro – a powerful and intuitive design tool inspired by Figma. FigPro provides a seamless experience for designers, allowing you to create, collaborate, and bring your ideas to life with ease.
- ## Built With
+ ## 🛠️ Built With
 
 - [Next](https://nextjs.org)
 - [React](https://reactjs.org)
@@ -23,17 +22,19 @@ Welcome to FigPro – a powerful and intuitive design tool inspired by Figma. Fi
 - [FabricJS](http://fabricjs.com/docs/)
 - [Shadcn](https://ui.shadcn.com/docs)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
- ## Getting Started
+  
+ ## 🚀 Getting Started
 
 Get started by installing the project on your local machine
- ### Prerequisites
+
+ ### 📋 Prerequisites
 
 To get started, you need the following installed on your device:
 
 - node.js
 - npm
 - git
- ### Installation
+ ### 🔧 Installation
 
 _You can get started by installing these dependancies on your local machine_
 
@@ -54,45 +55,45 @@ Replace the placeholder values with your actual Liveblocks credentials. You can 
 4. Running the project
 
 ```npm run dev```
- ## Features
+ ## 🌟 Features
 
-### Collaborative Editing:
+### Collaborative Editing 🖥️🤝 :
 
 - Multiple Cursors: Show individual cursors for all users, facilitating simultaneous collaboration.
 - Real-time Chat and Reactions: Communicate instantly and interactively with built-in chat and reaction emojis.
 
-### User Engagement:
+### User Engagement 👥💬 :
 
 - Active User List: See who is currently collaborating in the project, providing real-time engagement visibility.
 - Commenting System: Attach comments to specific design elements to foster feedback and discussion.
 
-### Design Tools:
+### Design Tools 🖌️📐:
 
 - Shape Creation: Access a variety of tools to draw different shapes, enabling diverse design possibilities.
 - Image Uploading: Import images onto the canvas to enhance your visual designs.
 - Customization Options: Modify properties of design elements for precise and personalized adjustments.
 
-### Creative Freedom:
+### Creative Freedom 🎨🖊️ :
 
 - Freeform Drawing: Draw freely on the canvas, promoting artistic and creative expression.
 - Undo/Redo Functionality: Easily reverse or restore actions to experiment with different design ideas.
 
-### Efficiency and Accessibility:
+### Efficiency and Accessibility ⚡⌨️ :
 
 - Keyboard Shortcuts: Utilize shortcuts for common actions like copy, paste, delete, and more to enhance productivity.
 - History Tracking: Review a timeline of all actions and changes, aiding in version control and project management.
 
-### Design Management:
+### Design Management 🗂️📦 :
 
 - Element Manipulation: Delete, scale, move, clear, and export design elements and the entire canvas to manage your project efficiently.
 
-### Advanced Features:
+### Advanced Features 🧩🖥️ :
 
 - Code Architecture: Benefit from a robust code structure that supports advanced React hooks and promotes reusability.
 
 With these features, FigPro provides a comprehensive and dynamic design environment, enabling seamless collaboration, creative expression, and efficient project management.
 
-## Usage Screenshots
+## 📸 Usage Screenshots 
 
 ![image (5)](https://github.com/saakshikobarne/figma/assets/115942356/0bd0cbff-4709-468c-b216-276ad5971174)
 <br/><br/>
@@ -101,7 +102,7 @@ With these features, FigPro provides a comprehensive and dynamic design environm
 ![image (3)](https://github.com/saakshikobarne/figma/assets/115942356/30599a68-acb6-48a6-8a4e-31aca5440406)
 <br/>
 
- ## Contributing
+ ## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -113,18 +114,19 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
- ## License
+ 
+ ## 📄 License
 
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
- ## Contact
+ 
+ ## 📞 Contact
 
 Saakshi Kobarne - [Twitter]( https://twitter.com/uncagedspirit_ ), [LinkedIn](https://www.linkedin.com/in/saakshiKobarne/)
-
-
 Project Link: [https://github.com/saakshikobarne/figpro](https://github.com/saakshikobarne/figpro)
- ## Acknowledgments
+
+ ## 🙏 Acknowledgments
 
 Resources that I found helpful and would like to give credit to!
 
 
-- [JSMastery yt](https://www.youtube.com/@javascriptmastery)
+- [JSMastery](https://www.youtube.com/@javascriptmastery)
