@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+                         
+<br/>
+<div align="center">
+<a href="https://github.com/ShaanCoding/ReadME-Generator">
+</a>
+<h2 align="center">FigPro</h2>
+<p align="center">
+Design Together, Create Limitlessly.
+<br/>
+</p>
+</div>
 
-## Getting Started
+ ## About The Project
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to FigPro – a powerful and intuitive design tool inspired by Figma. FigPro provides a seamless experience for designers, allowing you to create, collaborate, and bring your ideas to life with ease.
+ ## Built With
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Next](https://nextjs.org)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [LiveBlocks](https://liveblocks.io/docs/get-started)
+- [FabricJS](http://fabricjs.com/docs/)
+- [Shadcn](https://ui.shadcn.com/docs)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+ ## Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Get started by installing the project on your local machine
+ ### Prerequisites
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To get started, you need the following installed on your device:
 
-## Learn More
+- node.js
+- npm
+- git
+ ### Installation
 
-To learn more about Next.js, take a look at the following resources:
+_You can get started by installing these dependancies on your local machine_
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/saakshikobarne/figpro.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Set up the environment variables in `.env.local`
+   ```js
+   NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
+   ```
+Replace the placeholder values with your actual Liveblocks credentials. You can obtain these credentials by signing up on the [Liveblocks website](https://liveblocks.io/docs/get-started).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+4. Running the project
 
-## Deploy on Vercel
+```npm run dev```
+ ## Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Real-time Collaboration
+- Collaborate in Real-time: Work with your team simultaneously on the same project. See changes instantly and communicate effortlessly.
+- Commenting and reacting System: Leave comments or reactions directly on the design to provide feedback or ask questions.
+- Intuitive Design Tools
+- Components: Reuse elements across your project to maintain consistency and speed up your workflow.
+- Prototyping: Build interactive prototypes to showcase the flow of your design.
+### User-Friendly Interface
+- Intuitive Design: An easy-to-navigate interface that allows designers of all levels to jump right in.
+- Customizable Workspace: Tailor your workspace to fit your personal workflow preferences.
+### Cross-Platform Support
+Web-based: Access FigPro from any device with a web browser.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ ## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+ ## License
+
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+ ## Contact
+
+Saakshi Kobarne - [Twitter]( https://twitter.com/uncagedspirit_ ), [LinkedIn](https://www.linkedin.com/in/saakshiKobarne/)
+
+
+Project Link: [https://github.com/saakshikobarne/figpro](https://github.com/saakshikobarne/figpro)
+ ## Acknowledgments
+
+Resources that I found helpful and would like to give credit to!
+
+
+- [JSMastery yt](https://www.youtube.com/@javascriptmastery)
