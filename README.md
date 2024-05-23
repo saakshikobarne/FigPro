@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
 </a>
-<h2 align="center">FigPro</h2>
+<h1 align="center">FigPro</h1>
 <p align="center">
 Design Together, Create Limitlessly.
 <br/>
