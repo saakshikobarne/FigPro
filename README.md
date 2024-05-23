@@ -56,17 +56,41 @@ Replace the placeholder values with your actual Liveblocks credentials. You can 
 ```npm run dev```
  ## Features
 
-### Real-time Collaboration
-- Collaborate in Real-time: Work with your team simultaneously on the same project. See changes instantly and communicate effortlessly.
-- Commenting and reacting System: Leave comments or reactions directly on the design to provide feedback or ask questions.
-- Intuitive Design Tools
-- Components: Reuse elements across your project to maintain consistency and speed up your workflow.
-- Prototyping: Build interactive prototypes to showcase the flow of your design.
-### User-Friendly Interface
-- Intuitive Design: An easy-to-navigate interface that allows designers of all levels to jump right in.
-- Customizable Workspace: Tailor your workspace to fit your personal workflow preferences.
-### Cross-Platform Support
-Web-based: Access FigPro from any device with a web browser.
+### Collaborative Editing:
+
+- Multiple Cursors: Show individual cursors for all users, facilitating simultaneous collaboration.
+- Real-time Chat and Reactions: Communicate instantly and interactively with built-in chat and reaction emojis.
+
+### User Engagement:
+
+- Active User List: See who is currently collaborating in the project, providing real-time engagement visibility.
+- Commenting System: Attach comments to specific design elements to foster feedback and discussion.
+
+### Design Tools:
+
+- Shape Creation: Access a variety of tools to draw different shapes, enabling diverse design possibilities.
+- Image Uploading: Import images onto the canvas to enhance your visual designs.
+- Customization Options: Modify properties of design elements for precise and personalized adjustments.
+
+### Creative Freedom:
+
+- Freeform Drawing: Draw freely on the canvas, promoting artistic and creative expression.
+- Undo/Redo Functionality: Easily reverse or restore actions to experiment with different design ideas.
+
+### Efficiency and Accessibility:
+
+- Keyboard Shortcuts: Utilize shortcuts for common actions like copy, paste, delete, and more to enhance productivity.
+- History Tracking: Review a timeline of all actions and changes, aiding in version control and project management.
+
+### Design Management:
+
+- Element Manipulation: Delete, scale, move, clear, and export design elements and the entire canvas to manage your project efficiently.
+
+### Advanced Features:
+
+- Code Architecture: Benefit from a robust code structure that supports advanced React hooks and promotes reusability.
+
+With these features, FigPro provides a comprehensive and dynamic design environment, enabling seamless collaboration, creative expression, and efficient project management.
 
 ## Usage Screenshots
 
