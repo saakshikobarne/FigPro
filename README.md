@@ -68,6 +68,15 @@ Replace the placeholder values with your actual Liveblocks credentials. You can 
 ### Cross-Platform Support
 Web-based: Access FigPro from any device with a web browser.
 
+## Usage Screenshots
+
+![image (5)](https://github.com/saakshikobarne/figma/assets/115942356/0bd0cbff-4709-468c-b216-276ad5971174)
+<br/><br/>
+![image (4)](https://github.com/saakshikobarne/figma/assets/115942356/4ac7f5bf-450f-445b-88b8-81139d151beb)
+<br/><br/>
+![image (3)](https://github.com/saakshikobarne/figma/assets/115942356/30599a68-acb6-48a6-8a4e-31aca5440406)
+<br/>
+
  ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
